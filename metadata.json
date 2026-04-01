@@ -1,0 +1,5 @@
+{
+  "name": "Sleep Cycle Manager",
+  "description": "Calculate optimal wake-up times based on 90-minute sleep cycles to wake up feeling refreshed. Includes alarm simulation and backwards calculation.",
+  "requestFramePermissions": []
+}
